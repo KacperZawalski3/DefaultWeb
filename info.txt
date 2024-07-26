@@ -3,3 +3,5 @@ This is a critiacal message
 Commit #2 during squash activitys
 
 Commit #3 during squash activitys
+
+Commit #4 during squash activitys
